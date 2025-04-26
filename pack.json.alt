@@ -1,0 +1,14 @@
+{
+  "name": "1.old stories lofi extended full",
+  "author": "DreamerSouls",
+  "version": "v1.0",
+  "manifest_version": 3,
+  "music": true,
+  "mappings": {
+   "menu_music.mp3": [
+    "menu_music.wav"
+     ]
+  },
+  "id": "f35ca80c-e84b-49a8-b3d2-fb152d050c98",
+  "ignore": []
+}
